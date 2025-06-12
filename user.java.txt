@@ -4,4 +4,5 @@ int a=10;
 int b=20;
 string str="madhavi"
 int c=30
+float d=24.30;
 }
