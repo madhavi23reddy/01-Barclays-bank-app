@@ -5,6 +5,7 @@ int b=20;
 string str="madhavi"
 int c=30
 int i=100
+int k=50
 int j=40
 float d=24.30;
 int c=30;
