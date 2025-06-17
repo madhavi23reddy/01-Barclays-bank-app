@@ -13,4 +13,7 @@ int j=40
 float d=24.30;
 int c=30;
 int d=40;
+//jira 101
+void main(){
+}
 }
